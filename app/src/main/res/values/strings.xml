@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Financial Calculator India Pro</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">Financial Calculator India Pro</string>
+    
+    <!-- Bank Calculators -->
+    <string name="emi_calculator">EMI Calculator</string>
+    <string name="fd_calculator">Fixed Deposit Calculator</string>
+    <string name="rd_calculator">Recurring Deposit Calculator</string>
+    
+    <!-- Post Office Calculators -->
+    <string name="ppf_calculator">PPF Calculator</string>
+    <string name="ssy_calculator">SSY Calculator</string>
+    <string name="scss_calculator">SCSS Calculator</string>
+    <string name="kvp_calculator">KVP Calculator</string>
+    <string name="nsc_calculator">NSC Calculator</string>
+    <string name="mis_calculator">MIS Calculator</string>
+    
+    <!-- Retirement & Tax Calculators -->
+    <string name="nps_calculator">NPS Calculator</string>
+    <string name="epf_calculator">EPF Calculator</string>
+    <string name="apy_calculator">APY Calculator</string>
+    <string name="gratuity_calculator">Gratuity Calculator</string>
+    <string name="income_tax_calculator">Income Tax Calculator</string>
+    
+    <!-- Mutual Funds Calculators -->
+    <string name="sip_calculator">SIP Calculator</string>
+    <string name="swp_calculator">SWP Calculator</string>
+    <string name="elss_calculator">ELSS Calculator</string>
+    <string name="lumpsum_calculator">Lumpsum Calculator</string>
+    <string name="capital_gains_calculator">Capital Gains Calculator</string>
+    
+    <!-- Common Labels -->
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="coming_soon">Coming Soon</string>
+    
+    <!-- Input Labels -->
+    <string name="loan_amount">Loan Amount</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="tenure">Tenure</string>
+    <string name="monthly_investment">Monthly Investment</string>
+    <string name="yearly_deposit">Yearly Deposit</string>
+    <string name="expected_return">Expected Return Rate</string>
+    
+    <!-- Result Labels -->
+    <string name="monthly_emi">Monthly EMI</string>
+    <string name="total_interest">Total Interest</string>
+    <string name="total_payment">Total Payment</string>
+    <string name="maturity_amount">Maturity Amount</string>
+    <string name="invested_amount">Invested Amount</string>
+    <string name="estimated_returns">Estimated Returns</string>
+</resources>

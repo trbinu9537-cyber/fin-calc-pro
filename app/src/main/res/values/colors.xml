@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Financial Color Palette -->
+    <color name="emerald_green">#10B981</color>
+    <color name="emerald_green_dark">#059669</color>
+    <color name="blue">#3B82F6</color>
+    <color name="blue_dark">#2563EB</color>
+    <color name="light_gray">#F8FAFC</color>
+    <color name="dark_gray">#1E293B</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    
+    <!-- Status Colors -->
+    <color name="success_green">#22C55E</color>
+    <color name="warning_orange">#F59E0B</color>
+    <color name="error_red">#EF4444</color>
+    
+    <!-- Card and Background -->
+    <color name="card_white">#FFFFFF</color>
+    <color name="background_light">#F1F5F9</color>
+    <color name="divider_gray">#E2E8F0</color>
+    
+    <!-- Post Office Scheme Colors -->
+    <color name="ppf_gold">#EAB308</color>
+    <color name="ssy_pink">#EC4899</color>
+    <color name="scss_purple">#8B5CF6</color>
+    
+    <!-- Mutual Fund Colors -->
+    <color name="sip_blue">#0EA5E9</color>
+    <color name="elss_green">#14B8A6</color>
+</resources>

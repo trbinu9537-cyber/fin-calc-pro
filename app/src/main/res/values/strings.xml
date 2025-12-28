@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinCalc Pro</string>
+    <string name="app_tagline">Indian Financial Calculator</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_calculators">Calculators</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Calculator Categories -->
+    <string name="category_loans">Loan Calculators</string>
+    <string name="category_investments">Investment Calculators</string>
+    <string name="category_post_office">Post Office Schemes</string>
+    <string name="category_retirement">Retirement Planning</string>
+    <string name="category_tax">Tax Calculators</string>
+    <string name="category_mutual_funds">Mutual Funds</string>
+    
+    <!-- EMI Calculators -->
+    <string name="calc_home_loan">Home Loan EMI</string>
+    <string name="calc_personal_loan">Personal Loan EMI</string>
+    <string name="calc_car_loan">Car Loan EMI</string>
+    <string name="calc_education_loan">Education Loan EMI</string>
+    
+    <!-- Investment Calculators -->
+    <string name="calc_fd">Fixed Deposit</string>
+    <string name="calc_rd">Recurring Deposit</string>
+    <string name="calc_simple_interest">Simple Interest</string>
+    <string name="calc_compound_interest">Compound Interest</string>
+    
+    <!-- Post Office Schemes -->
+    <string name="calc_ppf">Public Provident Fund (PPF)</string>
+    <string name="calc_nsc">National Savings Certificate (NSC)</string>
+    <string name="calc_ssy">Sukanya Samriddhi Yojana (SSY)</string>
+    <string name="calc_scss">Senior Citizen Savings Scheme (SCSS)</string>
+    <string name="calc_kvp">Kisan Vikas Patra (KVP)</string>
+    <string name="calc_post_office_td">Post Office Time Deposit</string>
+    <string name="calc_post_office_mis">Post Office MIS</string>
+    
+    <!-- Retirement -->
+    <string name="calc_nps">National Pension System (NPS)</string>
+    <string name="calc_epf">Employee Provident Fund (EPF)</string>
+    <string name="calc_retirement_corpus">Retirement Corpus</string>
+    <string name="calc_atal_pension">Atal Pension Yojana</string>
+    
+    <!-- Mutual Funds -->
+    <string name="calc_sip">SIP Calculator</string>
+    <string name="calc_lumpsum">Lumpsum Calculator</string>
+    <string name="calc_swp">SWP Calculator</string>
+    <string name="calc_elss">ELSS Calculator</string>
+    
+    <!-- Tax Calculators -->
+    <string name="calc_income_tax">Income Tax Calculator</string>
+    <string name="calc_gst">GST Calculator</string>
+    <string name="calc_capital_gains">Capital Gains Tax</string>
+    
+    <!-- Common Labels -->
+    <string name="label_principal">Principal Amount</string>
+    <string name="label_interest_rate">Interest Rate (%)</string>
+    <string name="label_tenure">Tenure</string>
+    <string name="label_monthly_investment">Monthly Investment</string>
+    <string name="label_result">Result</string>
+    <string name="label_calculate">Calculate</string>
+    <string name="label_reset">Reset</string>
+    <string name="label_save">Save</string>
+    <string name="label_share">Share</string>
+    
+    <!-- Error Messages -->
+    <string name="error_empty_field">This field cannot be empty</string>
+    <string name="error_invalid_amount">Please enter a valid amount</string>
+    <string name="error_invalid_rate">Please enter a valid interest rate</string>
+    <string name="error_invalid_tenure">Please enter a valid tenure</string>
+    
+    <!-- Messages -->
+    <string name="msg_calculation_saved">Calculation saved successfully</string>
+    <string name="msg_no_history">No calculation history available</string>
+</resources>

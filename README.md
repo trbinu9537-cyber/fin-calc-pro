@@ -8,45 +8,61 @@ A comprehensive, production-ready Android financial calculator app with 30+ calc
 
 ## 🌟 Features
 
-### Calculator Categories
+### Implemented Calculators (8 of 30+)
 
 #### 💳 Loan Calculators
-- Home Loan EMI Calculator
-- Personal Loan EMI Calculator
-- Car Loan EMI Calculator
-- Education Loan EMI Calculator
+- **EMI Calculator** - Calculate Equated Monthly Installments for:
+  - Home Loans
+  - Personal Loans
+  - Car Loans
+  - Education Loans
 
 #### 📈 Investment Calculators
-- Fixed Deposit (FD) Calculator
-- Recurring Deposit (RD) Calculator
-- Simple Interest Calculator
-- Compound Interest Calculator
+- **Fixed Deposit (FD) Calculator** - Calculate maturity amount with compound interest
+- **Recurring Deposit (RD) Calculator** - Monthly deposit scheme calculator
+- **Lumpsum Calculator** - One-time investment returns
 
 #### 🏛️ Post Office Schemes
-- Public Provident Fund (PPF)
-- National Savings Certificate (NSC)
-- Sukanya Samriddhi Yojana (SSY)
+- **Public Provident Fund (PPF)** - 15-year investment scheme
+- **National Savings Certificate (NSC)** - 5-year fixed tenure certificate
+- **Sukanya Samriddhi Yojana (SSY)** - Savings scheme for girl child
+
+#### 📊 Mutual Funds  
+- **SIP Calculator** - Systematic Investment Plan calculator
+- **Lumpsum Investment Calculator** - One-time mutual fund investment
+
+### Planned Calculators (22+ more)
+
+#### Additional Post Office Schemes
 - Senior Citizen Savings Scheme (SCSS)
 - Kisan Vikas Patra (KVP)
 - Post Office Time Deposit
 - Post Office Monthly Income Scheme (MIS)
 
-#### 🎯 Retirement Planning
+#### Retirement Planning
 - National Pension System (NPS)
 - Employee Provident Fund (EPF)
 - Retirement Corpus Calculator
 - Atal Pension Yojana
 
-#### 📊 Mutual Funds
-- SIP (Systematic Investment Plan) Calculator
-- Lumpsum Calculator
+#### Additional Mutual Funds
 - SWP (Systematic Withdrawal Plan) Calculator
 - ELSS Calculator
 
-#### 💼 Tax Calculators
+#### Tax Calculators
 - Income Tax Calculator
 - GST Calculator
 - Capital Gains Tax Calculator
+
+#### Interest Calculators
+- Simple Interest Calculator
+- Compound Interest Calculator
+
+#### And More...
+- Gratuity Calculator
+- Home Loan Prepayment Calculator
+- Loan Comparison Tools
+- Investment Comparison Tools
 
 ## 🏗️ Architecture
 

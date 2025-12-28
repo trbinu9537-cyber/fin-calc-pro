@@ -99,8 +99,8 @@ dependencies {
     kapt("androidx.room:room-compiler:2.6.1")
 
     // Hilt Dependency Injection
-    implementation("com.google.dagger:hilt-android:2.50")
-    kapt("com.google.dagger:hilt-compiler:2.50")
+    implementation("com.google.dagger:hilt-android:2.48")
+    kapt("com.google.dagger:hilt-compiler:2.48")
 
     // Firebase
     implementation(platform("com.google.firebase:firebase-bom:32.7.0"))

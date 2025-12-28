@@ -99,3 +99,6 @@ Thumbs.db
 # Test output
 test-results/
 jacoco/
+
+# Gradle distributions
+gradle.zip
